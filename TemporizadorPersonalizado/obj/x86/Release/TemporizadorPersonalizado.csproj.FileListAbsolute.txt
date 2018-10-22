@@ -1,0 +1,8 @@
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\TemporizadorPersonalizado\TemporizadorPersonalizado\bin\Release\TemporizadorPersonalizado.exe
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\TemporizadorPersonalizado\TemporizadorPersonalizado\bin\Release\TemporizadorPersonalizado.pdb
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\TemporizadorPersonalizado\TemporizadorPersonalizado\obj\x86\Release\WindowsFormsApplication1.frmTemporizador.resources
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\TemporizadorPersonalizado\TemporizadorPersonalizado\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\TemporizadorPersonalizado\TemporizadorPersonalizado\obj\x86\Release\TemporizadorPersonalizado.exe
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\TemporizadorPersonalizado\TemporizadorPersonalizado\obj\x86\Release\TemporizadorPersonalizado.pdb
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\TemporizadorPersonalizado\TemporizadorPersonalizado\obj\x86\Release\TemporizadorPersonalizado.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\TemporizadorPersonalizado\TemporizadorPersonalizado\obj\x86\Release\TemporizadorPersonalizado.csproj.GenerateResource.Cache

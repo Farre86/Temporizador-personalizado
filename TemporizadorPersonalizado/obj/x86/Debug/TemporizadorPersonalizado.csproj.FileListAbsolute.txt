@@ -1,0 +1,9 @@
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\TemporizadorPersonalizado\TemporizadorPersonalizado\bin\Debug\TemporizadorPersonalizado.exe
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\TemporizadorPersonalizado\TemporizadorPersonalizado\bin\Debug\TemporizadorPersonalizado.pdb
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\TemporizadorPersonalizado\TemporizadorPersonalizado\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\TemporizadorPersonalizado\TemporizadorPersonalizado\obj\x86\Debug\WindowsFormsApplication1.frmTemporizador.resources
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\TemporizadorPersonalizado\TemporizadorPersonalizado\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\TemporizadorPersonalizado\TemporizadorPersonalizado\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\TemporizadorPersonalizado\TemporizadorPersonalizado\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\TemporizadorPersonalizado\TemporizadorPersonalizado\obj\x86\Debug\TemporizadorPersonalizado.exe
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\TemporizadorPersonalizado\TemporizadorPersonalizado\obj\x86\Debug\TemporizadorPersonalizado.pdb
